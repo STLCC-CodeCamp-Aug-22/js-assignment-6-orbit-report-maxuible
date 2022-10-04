@@ -22,12 +22,7 @@ export class Satellite {
 
 	}
 
-	isreturnfalse(): boolean{
-		
-		return false
-		
-	}
-
+	
 }
 
 // TODO 3a: fix isSpaceDebris check
